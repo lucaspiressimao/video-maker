@@ -1,5 +1,5 @@
 const fs = require('fs')
-const contentFilePath = './content.json'
+const contentFilePath = './content/content.json'
 const scriptFilePath = './content/after-effects-script.js'
 
 function save(content) {
